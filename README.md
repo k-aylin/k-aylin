@@ -2,7 +2,7 @@
 
 Welcome! ✨
 
-My public code is provided as-is without warranty. Use at your own risk. **No explicit license granted beyond private use.**
+My public code is provided as-is without warranty. **It is intended for personal use only.** Executables are not provided — please build from source and review third-party licenses, as I do not vet them for this work.
 
 * If you fork or build on my code, please credit me in your repos and finished products by linking to my profile or the original repository. The repositories I own consist solely of my own work, unless otherwise cited.
 * If you're here in connection with a job application of mine, I'm happy to verify ownership of this account. Please reach out via the contact details in my application, and I'll create a secret Gist for confirmation.
