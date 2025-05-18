@@ -13,4 +13,6 @@ I have been a professional software engineer since 2018. My current tech stack (
 
 \_
 
-_Profile pic generated via DALL·E. I do not endorse the use of AI-generated art for commercial purposes._
+<sub>
+Profile pic generated via DALL·E without reference to a specific artist's style. Artists with similar aesthetics include Kelsey Beckett, Marjolein Caljouw, Audrey Kawasaki, among others. Please check out their work! I do not endorse AI-generated art in commercial settings or personal collections. It's a compromise I accept for practical uses where I'd otherwise use generic images, such as this case, and for use as a tool not to replace jobs. I believe human creativity is irreplacable and I firmly support artists' livelihoods.
+</sub>
